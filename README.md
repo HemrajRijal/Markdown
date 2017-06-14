@@ -6,7 +6,7 @@
 one|two|three
 -|-|-|
 Four|Five|Six
-
+### Java Code Highlighting
 ``` Java
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
