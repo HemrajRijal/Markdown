@@ -102,6 +102,7 @@ Aother Header
 Another One 
 ===
 
-## Markdown Image width Customization
-
-![Remarkable Icon](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)|![action](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)|![action](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)
+## Markdown Image on Table
+Google|Facebook|Instagram
+-|-|-|
+![Remarkable Icon](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)|![action](https://storyful.com/wp-content/uploads/2016/04/Facebook-create.png)|![action](http://i2.mirror.co.uk/incoming/article6756521.ece/ALTERNATES/s615b/Instagram-logo.jpg)
