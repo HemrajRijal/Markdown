@@ -101,3 +101,7 @@ Aother Header
 
 Another One 
 ===
+
+## Markdown Image width Customization
+
+![Remarkable Icon](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)|![action](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)|![action](http://www.doi-toshin.com/wp-content/uploads/2014/10/google-panda-penguin.jpg)
